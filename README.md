@@ -44,6 +44,6 @@ This project is a modern React starter template designed for rapid development o
 
 5. **Open your browser and visit:**
 
-         [http://localhost:5173](http://localhost:5173)
+   [http://localhost:5173](http://localhost:5173)
 
 ---
