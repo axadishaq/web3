@@ -18,8 +18,8 @@ This project is a modern React starter template designed for rapid development o
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/tailwind-css-react-vite-starter.git
-   cd tailwind-css-react-vite-starter
+   git clone https://github.com/axadishaq/web3.git
+   cd web3
    ```
 
 2. **Install dependencies:**
@@ -27,7 +27,7 @@ This project is a modern React starter template designed for rapid development o
    ```sh
    npm install
    ```
-   # or
+    or
     ```sh
    yarn install
    ```
@@ -37,7 +37,7 @@ This project is a modern React starter template designed for rapid development o
    ```sh
    npm run dev
    ```
-   # or
+    or
    ```sh
    yarn dev
    ```
