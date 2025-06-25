@@ -1,0 +1,41 @@
+# Tailwind CSS React Vite Web3 Starter
+
+This project is a modern React starter template designed for rapid development of visually appealing web apps. It leverages **Vite** for fast builds, **React 19** for robust UI development, and **Tailwind CSS 4** for utility-first, responsive styling. The template includes modular components, animated sections, and demo pages suitable for blockchain, SaaS, or tech-focused applications.
+
+**Key Technologies:**
+
+-  **React 19:** Modern, component-based UI library.
+-  **Vite:** Lightning-fast development server and build tool.
+-  **Tailwind CSS 4:** Utility-first CSS framework for rapid, responsive design.
+-  **React Router:** For seamless client-side routing.
+-  **Axios:** For API data fetching.
+-  **ESLint:** Ensures code quality and consistency.
+
+---
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/your-username/tailwind-css-react-vite-starter.git
+   cd tailwind-css-react-vite-starter
+   ```
+
+2. **Install dependencies:**
+
+   ```sh
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Start the development server:**
+
+   ```sh
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. **Open your browser and visit:**
