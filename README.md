@@ -26,7 +26,9 @@ This project is a modern React starter template designed for rapid development o
 
    ```sh
    npm install
+   ```
    # or
+    ```sh
    yarn install
    ```
 
@@ -34,8 +36,14 @@ This project is a modern React starter template designed for rapid development o
 
    ```sh
    npm run dev
+   ```
    # or
+   ```sh
    yarn dev
    ```
 
-4. **Open your browser and visit:**
+5. **Open your browser and visit:**
+
+[http://localhost:5173](http://localhost:5173)
+
+---
